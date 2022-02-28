@@ -314,6 +314,7 @@ def main():
             noplayer()
         else:
             print("\n\nQuitted, thanks for playing!")
+            quit()
         
         
 
